@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Lamia Benzine</h1>
-<h3 align="left">A passionate data analyst from London, UK. I'm a career switcher with a background in legal services and an extensive experience in banking and finance and capital markets transactions. Skilled in SQL, Python and Tableau. Keen interest in AI and AI ethics.</h3>
+<h3 align="left">Based in London, UK and passionate about data and data analytics. Skilled in SQL, Python and Tableau. Keen interest in AI and AI ethics.</h3>
 
 - 🌱 I’m currently learning **Python and Tableau.**
 
